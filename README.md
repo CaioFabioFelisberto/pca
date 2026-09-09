@@ -283,4 +283,4 @@ ambientes sem interface gráfica, adapte o código para salvar a figura com
 
 ## Licença
 
-Projeto educacional livre para uso. Licença MIT
+Projeto educacional livre para uso. Licença MIT.
